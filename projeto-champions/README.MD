@@ -38,7 +38,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/IagoGoncalves/node-dio/tree/main/projeto-champions
+$ git clone https://github.com/IagoGoncalves/champions-league
 
 # Go into the repository
 $ cd projeto-champions
@@ -52,8 +52,8 @@ $ npm install
 
 # Credits
 
-icons by [Pino Lamanna][dribble-icon]
-Teacher [Felipe Aguiar][https://github.com/felipeAguiarCode]
+icons by [Pino Lamanna][dribble-icon] <br>
+Teacher Felipe Aguiar [https://github.com/felipeAguiarCode]
 
 [typescript]: https://www.typescriptlang.org/
 [typescript-5-4]: https://www.typescriptlang.org/
