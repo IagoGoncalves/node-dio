@@ -38,24 +38,22 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/felipeAguiarCode/node-blue-boilerplate
+$ git clone https://github.com/IagoGoncalves/node-dio/tree/main/projeto-champions
 
 # Go into the repository
-$ cd node-blue-boilerplate
+$ cd projeto-champions
 
 # Install dependencies
 $ npm install
 ```
 
-## Author
-
-| [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
-| :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                            [Linkedin](www.linkedin.com/in/felipe-aguiar-exe/)                                             |
+:---------------------------------------------------------------------------------------------------------------------------------------: |
+| [Linkedin](www.linkedin.com/in/felipe-aguiar-exe/) |
 
 # Credits
 
 icons by [Pino Lamanna][dribble-icon]
+Teacher [Felipe Aguiar][https://github.com/felipeAguiarCode]
 
 [typescript]: https://www.typescriptlang.org/
 [typescript-5-4]: https://www.typescriptlang.org/
